@@ -25,6 +25,22 @@ ROS 2 type mappings out of the box, with extensibility for custom messages.
 
 See the [documentation](https://rewire.run) for installation instructions and usage.
 
+## Related Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [rewire-viewer](https://github.com/rewire-run/rewire-viewer) | Rewire viewer based on Rerun API for bridge introspection |
+| [rewire-extras](https://github.com/rewire-run/rewire-extras) | Shared Rerun archetypes and types for the Rewire ecosystem |
+| [rewire-docker](https://github.com/rewire-run/rewire-docker) | Docker images for Rewire |
+
+### Examples
+
+| Repository | Description |
+|------------|-------------|
+| [rewire-turtlebot3-example](https://github.com/rewire-run/rewire-turtlebot3-example) | TurtleBot3 simulation visualized in Rerun |
+| [rewire-camera-example](https://github.com/rewire-run/rewire-camera-example) | ROS 2 camera/image streaming to Rerun |
+| [rewire-custom-mappings-example](https://github.com/rewire-run/rewire-custom-mappings-example) | Custom message mapping with JSON5 |
+
 ## Community
 
 This repository hosts [discussions](https://github.com/rewire-run/rewire/discussions) and
