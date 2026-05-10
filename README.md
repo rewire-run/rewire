@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://www.rewire.run/">
-    <img alt="rewire" src="https://github.com/user-attachments/assets/d22f718a-87e7-4740-aa1e-1716fc3f7328">
+    <img alt="rewire" src="https://github.com/user-attachments/assets/2f69363d-f5c8-4fd0-9a54-4c3975ae1d23">
   </a>
 </h1>
 
