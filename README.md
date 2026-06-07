@@ -29,17 +29,17 @@ See the [documentation](https://rewire.run) for installation instructions and us
 
 | Repository | Description |
 |------------|-------------|
-| [rewire-viewer](https://github.com/rewire-run/rewire-viewer) | Rewire viewer based on Rerun API for bridge introspection |
-| [rewire-extras](https://github.com/rewire-run/rewire-extras) | Shared Rerun archetypes and types for the Rewire ecosystem |
-| [rewire-docker](https://github.com/rewire-run/rewire-docker) | Docker images for Rewire |
+| [viewer](https://github.com/rewire-run/viewer) | Rewire viewer based on Rerun API for bridge introspection |
+| [extras](https://github.com/rewire-run/extras) | Shared Rerun archetypes and types for the Rewire ecosystem |
+| [docker](https://github.com/rewire-run/docker) | Docker images for Rewire |
 
 ### Examples
 
 | Repository | Description |
 |------------|-------------|
-| [rewire-turtlebot3-example](https://github.com/rewire-run/rewire-turtlebot3-example) | TurtleBot3 simulation visualized in Rerun |
-| [rewire-camera-example](https://github.com/rewire-run/rewire-camera-example) | ROS 2 camera/image streaming to Rerun |
-| [rewire-custom-mappings-example](https://github.com/rewire-run/rewire-custom-mappings-example) | Custom message mapping with JSON5 |
+| [turtlebot3-example](https://github.com/rewire-run/turtlebot3-example) | TurtleBot3 simulation visualized in Rerun |
+| [camera-example](https://github.com/rewire-run/camera-example) | ROS 2 camera/image streaming to Rerun |
+| [custom-mappings-example](https://github.com/rewire-run/custom-mappings-example) | Custom message mapping with JSON5 |
 
 ## Community
 
