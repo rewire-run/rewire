@@ -13,7 +13,7 @@ ROS 2 type mappings out of the box, with extensibility for custom messages.
 
 - Zero ROS 2 dependency — pure Rust, no colcon or ament needed
 - Automatic DDS and Zenoh discovery
-- 59 built-in type mappings across
+- More than 50 built-in type mappings across
 - Custom message support via JSON5 mappings
 - Real-time diagnostics (hz, bytes/sec, drops, latency)
 - Topic filtering with glob patterns
