@@ -22,6 +22,35 @@ ROS 2 type mappings out of the box, with extensibility for custom messages.
 
 See the [documentation](https://rewire.run) for installation instructions and usage.
 
+### Nix
+
+This repository is a flake. rewire is unfree, so `allowUnfree` is required.
+
+```bash
+nix profile install github:rewire-run/rewire
+```
+
+On NixOS, add it as an input and pull the package into your system config:
+
+```nix
+{
+  inputs.rewire.url = "github:rewire-run/rewire";
+
+  # in your nixosConfiguration modules
+  environment.systemPackages = [ inputs.rewire.packages.${system}.rewire ];
+  nixpkgs.config.allowUnfree = true;
+}
+```
+
+An overlay is also exported, if you would rather reach it as `pkgs.rewire`:
+
+```nix
+nixpkgs.overlays = [ inputs.rewire.overlays.default ];
+```
+
+Binaries come from this repository's releases; nothing is built from source. Supported systems are
+listed in [`sources.json`](sources.json), which is regenerated on every release.
+
 ## Related Repositories
 
 | Repository | Description |
