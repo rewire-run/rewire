@@ -74,7 +74,7 @@ stdenv.mkDerivation {
   '';
 
   meta = {
-    description = "Drop-in ROS 2 bridge for Rerun";
+    description = "The Rewire command line: stream ROS 2 topics to Rerun";
     longDescription = ''
       Stream live ROS 2 topics to the Rerun viewer for real-time visualization.
       No ROS 2 runtime or build required — rewire speaks DDS and Zenoh natively.

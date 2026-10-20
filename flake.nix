@@ -1,7 +1,7 @@
 # Published to rewire-run/rewire by .github/workflows/mirror.yaml, which is where `nix` resolves
 # `github:rewire-run/rewire` from. Edit it here; the copy in the mirror is overwritten every release.
 {
-  description = "Drop-in ROS 2 bridge for Rerun";
+  description = "The Rewire command line: stream ROS 2 topics to Rerun";
 
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
 
