@@ -1,17 +1,17 @@
 {
-  "version": "0.14.0",
+  "version": "0.15.0",
   "platforms": {
     "aarch64-linux": {
       "platform": "aarch64-unknown-linux-gnu",
-      "sha256": "26d9e708d2cc93f8c7f99c0c62c9f8df10733de8c9d34310675e53a4461b33dd"
+      "sha256": "db0ae8c8eedecba6fd05b5650cf1cf46869d66c446f5b55eeb90bab3845272e0"
     },
     "x86_64-linux": {
       "platform": "x86_64-unknown-linux-gnu",
-      "sha256": "525cd4a2f9fd3ef661d77b6ba13ca5d31d8e773b1b37e2ebcd45c9a31cd4438e"
+      "sha256": "2dfe8ca42ccca060bbc9e6912c12165485b014a93559d0bdc44ade772931df5f"
     },
     "aarch64-darwin": {
       "platform": "aarch64-apple-darwin",
-      "sha256": "b3888bd6f1d272cf3f41fd904c91c5618b61bad3c9c3a7ddf7c9cd90bd04ca4a"
+      "sha256": "f978381013001b078b9bd5ee3c6c34ed7ef3835f653b426e37113516d4df489e"
     }
   }
 }
